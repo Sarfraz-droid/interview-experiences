@@ -4,6 +4,7 @@ author: Sarfraz Alam
 categories: ["2022"]
 date: 2022-08-06
 tags: [accenture,"2022"]
+comments: true
 ---
 
 # Accenture
