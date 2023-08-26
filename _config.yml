@@ -18,9 +18,9 @@ timezone: Asia/Calcutta
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: UPC JMI # the main title
+title: Interview Experiences # the main title
 
-tagline: Interview Experiences at Jamia Millia Islamia # it will display as the sub-title
+tagline: Interview Experiences # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   
@@ -38,7 +38,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Mohammad Sarfraz Alam
-  email: placements@jmi.ac.in # change to your email address
+  email: alamsarfraz422@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/Sarfraz-droid/upc-interview-experiences # change to your github homepage
@@ -74,7 +74,7 @@ social:
 # img_cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "https://res.cloudinary.com/confused-bachlors/image/upload/v1692785959/1648651182361_dlui3j.jpg"
+avatar: "https://res.cloudinary.com/confused-bachlors/image/upload/v1693065711/OIP_ymueaq.jpg"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
