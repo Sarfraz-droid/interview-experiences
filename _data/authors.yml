@@ -6,12 +6,13 @@
 #   url: {homepage_of_author}
 # -------------------------------------
 
-cotes:
-  name: Cotes Chung
-  twitter: cotes2020
-  url: https://github.com/cotes2020/
+Sarfraz-droid:
+  name: Mohammad Sarfraz Alam
+  #twitter: cotes2020
+  url: https://github.com/Sarfraz-droid
 
-sille_bille:
-  name: Dinesh Prasanth Moluguwan Krishnamoorthy
-  twitter: dinesh_MKD
-  url: https://github.com/SilleBille/
+mrgulrez:
+  name: Gulrez Alam
+  email: gulrezalam749@gmail.com
+  url: https://www.linkedin.com/in/mrgulrez/
+  #url: https://github.com/mrgulrez
