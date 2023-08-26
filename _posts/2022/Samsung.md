@@ -5,7 +5,6 @@ categories: ["2022"]
 date: 2023-08-25
 tags: [Samsung,"2022"]
 pin: true
-
 ---
 ![Samsung](/assets/img/companies/samsung.jpg){: width="700" height="350"}{: .shadow}{: lqip='/assets/img/companies/samsung.jpg'}
 
