@@ -26,10 +26,10 @@ description: >- # used by seo meta and the atom feed
   
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://github.com/Sarfraz-droid/upc-interview-experiences"
+# url: "https://github.com/Sarfraz-droid/upc-interview-experiences"
 
 github: 
-  username: Sarfraz-droid/upc-interview-experiences # change to your github username
+  # username: Sarfraz-droid/upc-interview-experiences # change to your github username
 
 # twitter:
 #   username: twitter_username # change to your twitter username
@@ -41,7 +41,7 @@ social:
   email: alamsarfraz422@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://github.com/Sarfraz-droid/upc-interview-experiences # change to your github homepage
+    # - https://github.com/Sarfraz-droid/upc-interview-experiences # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
