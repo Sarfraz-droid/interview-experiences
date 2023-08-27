@@ -1,34 +1,32 @@
 <footer class="py-4" style="--footer-bg-color: var(--dark-bg); --footer-text-color: var(--light-text);">
   <div class="container px-lg-4">
-    <div class="row text-center">
+    <div class="row">
       <div class="col-md-4 mb-4">
+        <h4 class="mb-3">Contact Information</h4>
+        <ul class="mb-0">
+          <li><i class="fas fa-envelope mr-2"></i> Email: <a href="mailto:alamsarfraz422@gmail.com">alamsarfraz422@gmail.com</a></li>
+          <li><i class="fas fa-phone-alt mr-2"></i> Phone: <a href="tel:+917303435034">+91 73034 35034</a></li>
+        </ul>
+      </div>
+
+      <div class="col-md-4 mb-4">
+        <h4 class="mb-3">Interview Experiences</h4>
         <p class="mb-0">
-          <a href="https://www.jmi.ac.in/" class="text-link" target="_blank">Faculty of Engineering and Technology<br>Jamia Millia Islamia, New Delhi</a>
+          Explore the treasure of experiences shared by those who've walked the path before you.
         </p>
       </div>
 
       <div class="col-md-4 mb-4">
-        <p class="h5 text-uppercase">Interview Experiences</p>
-        <div class="decorative-line"></div>
-      </div>
-
-      <div class="col-md-4 mb-4">
+        <h4 class="mb-3">Copyright & Credits</h4>
         <p class="mb-0">
-          <span class="h6">
-            {{ '©' }} {{ 'now' | date: '%Y' }} |
-            <a href="https://github.com/Sarfraz-droid/upc-interview-experiences" class="text-link" target="_blank">Sarfraz Alam</a>
-          </span>
+          <span>&copy; {{ 'now' | date: '%Y' }}</span>
+          <br>
+          <span>Created by</span> <a href="https://github.com/Sarfraz-droid/upc-interview-experiences" class="text-link" target="_blank">Sarfraz Alam</a>
         </p>
-        {% if site.data.locales[include.lang].copyright.brief %}
-          <small
-            data-bs-toggle="tooltip"
-            data-bs-placement="top"
-            title="{{ site.data.locales[include.lang].copyright.verbose }}"
-          >
-            {{- site.data.locales[include.lang].copyright.brief -}}
-          </small>
-        {% endif %}
       </div>
     </div>
+    <p class="mt-3">
+      All rights reserved. No part of this website may be reproduced or transmitted in any form or by any means without prior written permission. <br>  Journey confidently: this website is a guide, not an official platform. 
+    </p>
   </div>
 </footer>
