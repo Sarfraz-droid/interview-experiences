@@ -1,7 +1,7 @@
 ---
 title: JTG Interview Experience
-categories: ["2023"]
-tags: [JTG,"2023"]
+categories: ["2022"]
+tags: [JTG,"2022"]
 comments: true
 ---
 
