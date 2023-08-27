@@ -45,6 +45,7 @@
         @extend %text-clip;
 
         font-size: 1.25rem;
+        
       }
 
       %muted {
@@ -84,6 +85,11 @@
           text-overflow: ellipsis;
         }
       }
+    }
+    &:hover {
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      transform: translateY(-3px);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
     }
   }
 } /* #post-list */
