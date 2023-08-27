@@ -6,6 +6,7 @@ date: 2023-08-28
 tags: [Infoedge,"2022"]
 pin: true
 ---
+
 ![Infoegde](/assets/img/companies/infoedge.jpg){: width="500" height="200"}{: .shadow}{: lqip='/assets/img/companies/infoedge.jpg'}
 
 ---
