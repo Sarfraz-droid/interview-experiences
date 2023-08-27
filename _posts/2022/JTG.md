@@ -1,3 +1,10 @@
+---
+title: JTG Interview Experience
+categories: ["2023"]
+tags: [JTG,"2023"]
+comments: true
+---
+
 1. Given a string S, find the second non-repeatign character of S. String contains lower case characters only. If no such character exist then return "-". <br>
     *Input*
     ```txt
