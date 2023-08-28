@@ -1,94 +1,76 @@
 <div align="center">
 
-  # Chirpy Jekyll Theme
+# Chirpy Jekyll Theme
 
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+A symphony of minimalism, responsiveness, and innovation for the world of technical prose.
 
-  [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy?color=brightgreen)][gem]&nbsp;
-  [![CI](https://github.com/cotes2020/jekyll-theme-chirpy/actions/workflows/ci.yml/badge.svg?branch=master&event=push)][ci]&nbsp;
-  [![Codacy Badge](https://app.codacy.com/project/badge/Grade/4e556876a3c54d5e8f2d2857c4f43894)][codacy]&nbsp;
-  [![GitHub license](https://img.shields.io/github/license/cotes2020/jekyll-theme-chirpy.svg)][license]&nbsp;
-  [![996.icu](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg)](https://996.icu)
+[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy?color=brightgreen)][gem]&nbsp;
+[![996.icu](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg)](https://996.icu)
 
-  [**Live Demo →**][demo]
+[**Step into the Demo Wonderland →**][demo]
 
-  [![Devices Mockup](https://chirpy-img.netlify.app/commons/devices-mockup.png)][demo]
+[![Devices Mockup](https://chirpy-img.netlify.app/commons/devices-mockup.png)][demo]
 
 </div>
 
-## Features
+## Unveiling the Symphony
 
 <details>
   <summary>
-    <i>Click to view features</i>
+    <i>Tap to reveal the harmonies</i>
   </summary>
   <p>
 
   - Dark / Light Theme Mode
-  - Localized UI language
-  - Pinned Posts on Home Page
-  - Hierarchical Categories
-  - Trending Tags
-  - Table of Contents
-  - Last Modified Date
-  - Syntax Highlighting
-  - Mathematical Expressions
-  - Mermaid Diagrams & Flowcharts
-  - Dark / Light Mode Images
-  - Embed Videos
-  - Disqus / Utterances / Giscus Comments
-  - Built-in Search
-  - Atom Feeds
-  - Google Analytics
-  - SEO & Performance Optimization
+  - Languages of the World, Translated
+  - Pinned Stars on the Celestial Canvas
+  - Categories in Hierarchical Harmony
+  - Tags that Catch the Trending Breeze
+  - A Table, Where Thoughts Gather
+  - Last Modified: When Stars Align
+  - Highlighting the Elegance of Syntax
+  - Equations: Where Numbers Dance
+  - Mermaids Paint Diagrams & Flowcharts
+  - Light in the Dark, Shadows in the Light
+  - Videos: Echoes of Pixels and Sound
+  - Chorus of Comments: Disqus / Utterances / Giscus
+  - Hunt with the Built-in Lantern
+  - Feeding Readers' Souls: Atom Feeds
+  - Observing Voyagers: Google Analytics
+  - Enchanted Letters: SEO & Performance Spells
 
   </p>
 </details>
 
-## Documentation
+## Chronicles of Knowledge
 
-To explore usage, development, and upgrade guide of the project, please refer to the [**Wiki**][wiki].
+Embark on a journey of understanding through the [**Scrolls of Wisdom**][wiki], where the path to usage, development, and ascension awaits.
 
-## Contributing
+## Echoes of Creation
 
-Contributions (Issues/PRs/Discussions) are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated. For details, see the "[Contributing Guidelines][contribute-guide]".
+Contribute to the grand tapestry of creation – your whispers, your colors, your threads. In this enchanted realm of open source, your contributions are melodies that shape universes. For guidance, seek the "[Harmony of Contribution][contribute-guide]".
 
-## Credits
+## Scribe's Hall of Recognition
 
-This theme is mainly built with [Jekyll][jekyllrb] ecosystem,
-[Bootstrap][bootstrap], [Font Awesome][icons] and some other [wonderful tools][lib].
-The avatar and favicon design come from [Clipart Max][image].
+This masterpiece is conjured from the magic of [Jekyll][jekyllrb], woven with threads from [Bootstrap][bootstrap], adorned with gems from [Font Awesome][icons], and other enchanting [artifacts][lib]. The visual spellwork was crafted with inspiration from [Clipart Max][image].
 
-Many thanks to the [contributors][contributors] who participated in the development
-and to the folks who reported bugs or shared ideas.
+Our deepest gratitude dances among the [contributors][contributors], the dream weavers who nurtured this creation. To the ones who guided us through starlit nights and shared moonbeam ideas, we extend our heartfelt thanks.
 
-Last but not least, thanks to [JetBrains][jetbrains] for providing the _Open Source License_.
+And a final note of appreciation to [JetBrains][jetbrains], the patrons of our artistic endeavors through the _Open Source License_.
 
-## Sponsoring
+## The Enchanted Seal
 
-If you'd like to sponsor this project, the following options are available.
-
-[![Ko-fi](https://img.shields.io/badge/Support_Me_on_Ko--fi-ff5e5b?logo=ko-fi&logoColor=white)][ko-fi]&nbsp;
-[![Wechat Pay](https://img.shields.io/badge/Tip_Me_on_WeChat-brightgreen?logo=wechat&logoColor=white)][donation]&nbsp;
-[![Alipay](https://img.shields.io/badge/Tip_Me_on_Alipay-blue?logo=alipay&logoColor=white)][donation]
-
-## License
-
-This work is published under [MIT License][license].
+The scroll is inscribed with the [MIT License][license], a pact of sharing and collaboration.
 
 [gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[ci]: https://github.com/cotes2020/jekyll-theme-chirpy/actions/workflows/ci.yml?query=event%3Apush+branch%3Amaster
-[codacy]: https://app.codacy.com/gh/cotes2020/jekyll-theme-chirpy/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade
-[license]: https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/LICENSE
+[license]: https://github.com/Sarfraz-droid/interview-experiences/blob/main/LICENSE
 [jekyllrb]: https://jekyllrb.com/
 [bootstrap]: https://getbootstrap.com/
 [icons]: https://fontawesome.com/
 [image]: https://www.clipartmax.com/middle/m2i8b1m2K9Z5m2K9_ant-clipart-childrens-ant-cute/
-[demo]: https://cotes2020.github.io/chirpy-demo/
+[demo]: https://interview-experiences.netlify.app/
 [wiki]: https://github.com/cotes2020/jekyll-theme-chirpy/wiki
-[contribute-guide]: https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/docs/CONTRIBUTING.md
-[contributors]: https://github.com/cotes2020/jekyll-theme-chirpy/graphs/contributors
+[contribute-guide]: https://github.com/Sarfraz-droid/interview-experiences/blob/main/CONTRIBUTING.md
 [lib]: https://github.com/cotes2020/chirpy-static-assets
 [jetbrains]: https://www.jetbrains.com/?from=jekyll-theme-chirpy
-[ko-fi]: https://ko-fi.com/coteschung/
-[donation]: https://sponsor.cotes.page/
+[contributors]: https://github.com/Sarfraz-droid/interview-experiences/blob/main/CONTRIBUTORS.md
