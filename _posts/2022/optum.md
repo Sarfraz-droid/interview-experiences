@@ -6,7 +6,7 @@ date: 2023-08-28
 tags: [Optum, "2022"]
 ---
 
-![Optum](/assets/img/companies/optum.jpg){: width="700" height="350" }{: .shadow}{: lqip='/assets/img/companies/samsung.jpg'}{: .right}
+![Optum](/assets/img/companies/optum.jpg){: width="700" height="350" }{: .shadow}{: lqip='/assets/img/companies/samsung.jpg'}
 
 
 # Optum
