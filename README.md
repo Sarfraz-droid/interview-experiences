@@ -69,7 +69,7 @@ The scroll is inscribed with the [MIT License][license], a pact of sharing and c
 [icons]: https://fontawesome.com/
 [image]: https://www.clipartmax.com/middle/m2i8b1m2K9Z5m2K9_ant-clipart-childrens-ant-cute/
 [demo]: https://interview-experiences.netlify.app/
-[wiki]: https://github.com/cotes2020/jekyll-theme-chirpy/wiki
+[wiki]: https://github.com/Sarfraz-droid/interview-experiences/wiki
 [contribute-guide]: https://github.com/Sarfraz-droid/interview-experiences/blob/main/CONTRIBUTING.md
 [lib]: https://github.com/cotes2020/chirpy-static-assets
 [jetbrains]: https://www.jetbrains.com/?from=jekyll-theme-chirpy
