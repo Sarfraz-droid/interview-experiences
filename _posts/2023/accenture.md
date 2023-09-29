@@ -7,7 +7,7 @@ tags: [Accenture, "2023"]
 pin: true
 ---
 
-![Accenture Logo](/assets/img/companies/accenture.avif)
+![Accenture Logo](/assets/img/companies/accenture.png)
 
 # Accenture
 
