@@ -1,11 +1,10 @@
 ---
 title: Accenture
-author: Sarfraz Alam
+author: Sarfraz-droid
 categories: ["2022"]
 date: 2022-08-06
 tags: [accenture,"2022"]
 comments: true
-pin: true
 ---
 
 # Accenture
